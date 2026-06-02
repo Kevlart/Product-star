@@ -1,4 +1,5 @@
 # Product-star
 
-GIT Examplies ("Hello, world!")
+GIT Examplies ("Hello, world!") UPDATED
 Updated #1
+
