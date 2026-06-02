@@ -1,2 +1,1 @@
-# Product-star
-GIT Examplies
+git status
